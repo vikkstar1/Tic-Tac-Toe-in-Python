@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-in-Python
-This is a simple tic tac toe program written in python
+The code is split in the simpel tic tac toe game and it's AI
 The tictactoe.py file is in the master branch
